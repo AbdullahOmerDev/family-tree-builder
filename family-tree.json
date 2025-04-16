@@ -1,0 +1,1325 @@
+[
+    {
+        "id": "root",
+        "name": "بصير شمت",
+        "parent": null,
+        "level": 0,
+        "color": "#3b82f6",
+        "x": -143.37053571428572,
+        "y": -144.1138349260603
+    },
+    {
+        "id": "node-e6st032",
+        "name": "حاج بصير",
+        "parent": "root",
+        "level": 1,
+        "color": "#ef4444",
+        "x": 99.71204485212053,
+        "y": -126.77233014787947
+    },
+    {
+        "id": "node-1nm2we4",
+        "name": "ادريس بصير",
+        "parent": "root",
+        "level": 1,
+        "color": "#ef4444",
+        "x": -144.9107142857143,
+        "y": -29.714290073939736
+    },
+    {
+        "id": "node-he5yjjr",
+        "name": "قاسم حاج",
+        "parent": "node-e6st032",
+        "level": 2,
+        "color": "#10b981",
+        "x": 190.74105398995536,
+        "y": -43.763427734375
+    },
+    {
+        "id": "node-si6b9pg",
+        "name": "سعيد قاسم",
+        "parent": "node-he5yjjr",
+        "level": 3,
+        "color": "#f59e0b",
+        "x": 418.4798758370536,
+        "y": -119.12057059151786
+    },
+    {
+        "id": "node-0aoev5r",
+        "name": "عائشة قاسم",
+        "parent": "node-he5yjjr",
+        "level": 3,
+        "color": "#f59e0b",
+        "x": 473.90842982700894,
+        "y": -39.97767857142858
+    },
+    {
+        "id": "node-gflahr7",
+        "name": "حمد ادريس",
+        "parent": "node-1nm2we4",
+        "level": 2,
+        "color": "#10b981",
+        "x": -137.15848650251118,
+        "y": 34.044625418526785
+    },
+    {
+        "id": "node-675cgbo",
+        "name": "محمد",
+        "parent": "node-gflahr7",
+        "level": 3,
+        "color": "#f59e0b",
+        "x": 358.99891011855186,
+        "y": 150.88529698988972
+    },
+    {
+        "id": "node-h7vkbgy",
+        "name": "عبدالله",
+        "parent": "node-gflahr7",
+        "level": 3,
+        "color": "#f59e0b",
+        "x": 732.9464285714287,
+        "y": 62.77679443359375
+    },
+    {
+        "id": "node-61goyxd",
+        "name": "ادريس",
+        "parent": "node-gflahr7",
+        "level": 3,
+        "color": "#f59e0b",
+        "x": -291.7698456259335,
+        "y": 147.43896484375
+    },
+    {
+        "id": "node-68tfx4l",
+        "name": "زينب",
+        "parent": "node-gflahr7",
+        "level": 3,
+        "color": "#f59e0b",
+        "x": 364.80137416294644,
+        "y": 426.6695731026786
+    },
+    {
+        "id": "node-i1g00lp",
+        "name": "ابراهيم",
+        "parent": "node-675cgbo",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": 1830.0750177556818,
+        "y": 186.63753162730822
+    },
+    {
+        "id": "node-atkmmiq",
+        "name": "عثمان",
+        "parent": "node-675cgbo",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": 1835.6761585582385,
+        "y": -326.6590881347656
+    },
+    {
+        "id": "node-uleyzjo",
+        "name": "عائشة",
+        "parent": "node-675cgbo",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": 865.4863947088068,
+        "y": -338.2886297052557
+    },
+    {
+        "id": "node-cxmszog",
+        "name": "حفصة",
+        "parent": "node-675cgbo",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": 1091.31591796875,
+        "y": -129.9329584295099
+    },
+    {
+        "id": "node-t5r9x5h",
+        "name": "فاطمة",
+        "parent": "node-675cgbo",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": 617.3182373046875,
+        "y": 412.2500228881836
+    },
+    {
+        "id": "node-0snnloh",
+        "name": "علي",
+        "parent": "node-675cgbo",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": 283.3182373046875,
+        "y": 322.2500228881836
+    },
+    {
+        "id": "node-x3dyiez",
+        "name": "زينة زوجة عبدالجليل عثمان",
+        "parent": "node-h7vkbgy",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": 1042.2794966264203,
+        "y": 371.7830727317116
+    },
+    {
+        "id": "node-i5kzujq",
+        "name": "نفيسة",
+        "parent": "node-h7vkbgy",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": 1456.6841264204543,
+        "y": 602.3602433638139
+    },
+    {
+        "id": "node-pu82iay",
+        "name": "مريم",
+        "parent": "node-h7vkbgy",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": 1064.2830033735795,
+        "y": 1005.8909329501064
+    },
+    {
+        "id": "node-iz4dh4q",
+        "name": "محمد امير",
+        "parent": "node-h7vkbgy",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": 1699.477317116477,
+        "y": 1053.3352244984019
+    },
+    {
+        "id": "node-atr10ac",
+        "name": "عباس",
+        "parent": "node-h7vkbgy",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": 1434.2887739701703,
+        "y": 261.6727378151633
+    },
+    {
+        "id": "node-kcba8hx",
+        "name": "محمد",
+        "parent": "node-61goyxd",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": -867.600067363066,
+        "y": 602.3077392578125
+    },
+    {
+        "id": "node-9ite4k8",
+        "name": "احمد",
+        "parent": "node-61goyxd",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": -782.8868607913748,
+        "y": -20.93164780560662
+    },
+    {
+        "id": "node-60u1jqm",
+        "name": "عبدالجليل",
+        "parent": "node-61goyxd",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": -1570.4588104696838,
+        "y": 114.89886115579046
+    },
+    {
+        "id": "node-ugrox17",
+        "name": "حسين",
+        "parent": "node-61goyxd",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": -1748.7752454421104,
+        "y": 646.1272475298714
+    },
+    {
+        "id": "node-5jvapyn",
+        "name": "فاطمة",
+        "parent": "node-61goyxd",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": -1048.1964885487278,
+        "y": 1223.6297607421877
+    },
+    {
+        "id": "node-2x76cu2",
+        "name": "امنة",
+        "parent": "node-61goyxd",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": -166.56505472519822,
+        "y": 1174.9444939108457
+    },
+    {
+        "id": "node-674szgx",
+        "name": "محمد كرفيل",
+        "parent": "node-68tfx4l",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": 775.7568662306843,
+        "y": 1512.5400677849268
+    },
+    {
+        "id": "node-20f2p65",
+        "name": "عبدالجليل زوج زينة",
+        "parent": "node-68tfx4l",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": 376.04222353766954,
+        "y": 1818.696181353401
+    },
+    {
+        "id": "node-at3585e",
+        "name": "عبدالحليم",
+        "parent": "node-68tfx4l",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": 566.522705078125,
+        "y": 784.3636016845703
+    },
+    {
+        "id": "node-xp0itzj",
+        "name": "فاطمة",
+        "parent": "node-68tfx4l",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": 1462.861645642449,
+        "y": 1862.5694544175094
+    },
+    {
+        "id": "node-5jdfxl5",
+        "name": "امنة",
+        "parent": "node-68tfx4l",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": 814.1397936203902,
+        "y": 2250.878654928769
+    },
+    {
+        "id": "node-jeiiot4",
+        "name": "امنة",
+        "parent": "node-gflahr7",
+        "level": 3,
+        "color": "#f59e0b",
+        "x": 125.07952880859375,
+        "y": 768.1022491455078
+    },
+    {
+        "id": "node-7n1l5q9",
+        "name": "محمد عثمان شل",
+        "parent": "node-jeiiot4",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": -244.77205725277173,
+        "y": 1670.2848187614893
+    },
+    {
+        "id": "node-e2m7b2u",
+        "name": "فاطمة",
+        "parent": "node-jeiiot4",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": -225.47388974358057,
+        "y": 2271.484195484835
+    },
+    {
+        "id": "node-muaprhg",
+        "name": "عائشة",
+        "parent": "node-jeiiot4",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": 145.5444638869342,
+        "y": 2566.8767233455883
+    },
+    {
+        "id": "node-hk7m9mn",
+        "name": "نفيسة",
+        "parent": "node-jeiiot4",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": -1007.9438389048858,
+        "y": 2559.5904002470133
+    },
+    {
+        "id": "node-vib0lyi",
+        "name": "سعيد",
+        "parent": "node-68tfx4l",
+        "level": 4,
+        "color": "#8b5cf6",
+        "x": 702.0137162642045,
+        "y": 519.3840581720525
+    },
+    {
+        "id": "node-joiu5c7",
+        "name": "حمزة",
+        "parent": "node-i1g00lp",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1903.529656150124,
+        "y": 288.45571344549
+    },
+    {
+        "id": "node-e8bzawm",
+        "name": "عمر",
+        "parent": "node-i1g00lp",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1764.979580965909,
+        "y": 282.995508367365
+    },
+    {
+        "id": "node-i84us08",
+        "name": "بثينة",
+        "parent": "node-i1g00lp",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1908.6159446022727,
+        "y": 393.9045992764559
+    },
+    {
+        "id": "node-hpdy090",
+        "name": "رقية ",
+        "parent": "node-i1g00lp",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1908.6159446022727,
+        "y": 532.0864174582741
+    },
+    {
+        "id": "node-qm9jrvq",
+        "name": "كبرى",
+        "parent": "node-i1g00lp",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1819.5250355113635,
+        "y": 635.7227810946378
+    },
+    {
+        "id": "node-82lkrt4",
+        "name": "عبدالحميد",
+        "parent": "node-atkmmiq",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1909.129576249556,
+        "y": -224.83182040127838
+    },
+    {
+        "id": "node-hp2gez4",
+        "name": "محمد",
+        "parent": "node-atkmmiq",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1777.487571022727,
+        "y": -239.36929876154116
+    },
+    {
+        "id": "node-yd83mi3",
+        "name": "زينب",
+        "parent": "node-atkmmiq",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1770.5795010653408,
+        "y": -144.82498168945312
+    },
+    {
+        "id": "node-80a4izi",
+        "name": "سكينة",
+        "parent": "node-atkmmiq",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1576.0340465198863,
+        "y": -277.5522544167258
+    },
+    {
+        "id": "node-0u9ytat",
+        "name": "فتحية",
+        "parent": "node-atkmmiq",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1603.3067737926135,
+        "y": -139.37043623490766
+    },
+    {
+        "id": "node-gsngalg",
+        "name": "حسن",
+        "parent": "node-atkmmiq",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1886.943137428977,
+        "y": -44.824981689453125
+    },
+    {
+        "id": "node-qgakk0m",
+        "name": "عبدالله",
+        "parent": "node-atkmmiq",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1699.67041015625,
+        "y": -48.46134532581676
+    },
+    {
+        "id": "node-d9rtov8",
+        "name": "نصرالدين",
+        "parent": "node-atkmmiq",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1404.7569691051135,
+        "y": -324.8159096457741
+    },
+    {
+        "id": "node-ue066lq",
+        "name": "نجم الدين",
+        "parent": "node-atkmmiq",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1376.0340465198863,
+        "y": -244.8249816894531
+    },
+    {
+        "id": "node-lny83ja",
+        "name": "اكرام",
+        "parent": "node-atkmmiq",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1437.852228338068,
+        "y": -166.64316350763494
+    },
+    {
+        "id": "node-hdz9uve",
+        "name": "احلام",
+        "parent": "node-atkmmiq",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1428.761319247159,
+        "y": -75.73407259854403
+    },
+    {
+        "id": "node-2mj4khf",
+        "name": "عزيزة",
+        "parent": "node-atkmmiq",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1117.4819113991475,
+        "y": -290.277266068892
+    },
+    {
+        "id": "node-q013zj0",
+        "name": "الماحي",
+        "parent": "node-uleyzjo",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 871.7794522372158,
+        "y": -236.4624994451349
+    },
+    {
+        "id": "node-tztgp7v",
+        "name": "نفيسة",
+        "parent": "node-cxmszog",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1212.1626420454545,
+        "y": -71.73635309392755
+    },
+    {
+        "id": "node-vet3vhp",
+        "name": "منيرة",
+        "parent": "node-cxmszog",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1055.4353471235795,
+        "y": -11.726115833629258
+    },
+    {
+        "id": "node-l8sr910",
+        "name": "امنة",
+        "parent": "node-cxmszog",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1150.3444602272725,
+        "y": 66.44546508789062
+    },
+    {
+        "id": "node-3xyodlb",
+        "name": "محمد جليل",
+        "parent": "node-x3dyiez",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1043.4932084517045,
+        "y": 455.4136657714844
+    },
+    {
+        "id": "node-itnrd6u",
+        "name": "مصطفى",
+        "parent": "node-i5kzujq",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1530.129665027965,
+        "y": 704.1682156649503
+    },
+    {
+        "id": "node-rmd2rft",
+        "name": "عبدالله",
+        "parent": "node-i5kzujq",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1393.0342240767043,
+        "y": 722.3318342729048
+    },
+    {
+        "id": "node-4z9hpmr",
+        "name": "محمد احمد",
+        "parent": "node-i5kzujq",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1202.4886807528408,
+        "y": 704.1624450683593
+    },
+    {
+        "id": "node-2c2thr1",
+        "name": "كمال",
+        "parent": "node-i5kzujq",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1557.0341352982953,
+        "y": 835.0715359774503
+    },
+    {
+        "id": "node-fqzy9pv",
+        "name": "سونة",
+        "parent": "node-i5kzujq",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1298.8523171164773,
+        "y": 776.8897177956321
+    },
+    {
+        "id": "node-1uy3qxm",
+        "name": "طارق",
+        "parent": "node-pu82iay",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1189.1295970569956,
+        "y": 1189.1602810946376
+    },
+    {
+        "id": "node-hq0rmwp",
+        "name": "قرشي",
+        "parent": "node-pu82iay",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 917.8523393110795,
+        "y": 1152.422832142223
+    },
+    {
+        "id": "node-iptyjvd",
+        "name": "اخلاص",
+        "parent": "node-pu82iay",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 983.3068847656249,
+        "y": 1254.2410139604046
+    },
+    {
+        "id": "node-5gpcp92",
+        "name": "اسماء",
+        "parent": "node-pu82iay",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 710.5796120383523,
+        "y": 1226.9682866876774
+    },
+    {
+        "id": "node-qt2avu3",
+        "name": "عبدالله",
+        "parent": "node-iz4dh4q",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1772.9295141046696,
+        "y": 1236.5977478027344
+    },
+    {
+        "id": "node-72cdiit",
+        "name": "المغيرة",
+        "parent": "node-iz4dh4q",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1596.197842684659,
+        "y": 1267.1329706365411
+    },
+    {
+        "id": "node-8i3t6jn",
+        "name": "منير",
+        "parent": "node-iz4dh4q",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 2087.1069335937495,
+        "y": 1178.0420615456321
+    },
+    {
+        "id": "node-7167bdv",
+        "name": "منذر",
+        "parent": "node-iz4dh4q",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 2030.7432972301135,
+        "y": 1350.7693342729046
+    },
+    {
+        "id": "node-5lje0zd",
+        "name": "سميرة",
+        "parent": "node-iz4dh4q",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1739.8342063210227,
+        "y": 1379.8602433638139
+    },
+    {
+        "id": "node-aw5hhmi",
+        "name": "عائشة",
+        "parent": "node-iz4dh4q",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1408.9251154119318,
+        "y": 1339.8602433638137
+    },
+    {
+        "id": "node-5mron8d",
+        "name": "راوية",
+        "parent": "node-iz4dh4q",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1547.10693359375,
+        "y": 1392.5875160910866
+    },
+    {
+        "id": "node-d956atw",
+        "name": "حنان",
+        "parent": "node-iz4dh4q",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1883.470569957386,
+        "y": 1332.5875160910864
+    },
+    {
+        "id": "node-pukbl0m",
+        "name": "سلوى",
+        "parent": "node-iz4dh4q",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1899.8342063210225,
+        "y": 1456.2238797274501
+    },
+    {
+        "id": "node-87egd1g",
+        "name": "عبدالله",
+        "parent": "node-atr10ac",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1507.7421014959161,
+        "y": 444.9352333762429
+    },
+    {
+        "id": "node-4xlq8cg",
+        "name": "يحي",
+        "parent": "node-kcba8hx",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -742.0163378996009,
+        "y": 721.3650333180149
+    },
+    {
+        "id": "node-y6zqg92",
+        "name": "ثريا",
+        "parent": "node-kcba8hx",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -1046.483124003691,
+        "y": 792.1735337201288
+    },
+    {
+        "id": "node-8eaaue5",
+        "name": "عبدالله",
+        "parent": "node-kcba8hx",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -664.1301828272203,
+        "y": 856.8794160730699
+    },
+    {
+        "id": "node-wzk749b",
+        "name": "اخلاص",
+        "parent": "node-kcba8hx",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -1006.483124003691,
+        "y": 941.5852984260113
+    },
+    {
+        "id": "node-xkofeqx",
+        "name": "محاسن",
+        "parent": "node-kcba8hx",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -610.0125357683968,
+        "y": 1007.4676513671876
+    },
+    {
+        "id": "node-6gm8uue",
+        "name": "بثينة",
+        "parent": "node-kcba8hx",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -1235.8948887095735,
+        "y": 659.2323572495407
+    },
+    {
+        "id": "node-amvhkcu",
+        "name": "نظيرة",
+        "parent": "node-9ite4k8",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -657.2851169810576,
+        "y": 98.13383214613972
+    },
+    {
+        "id": "node-oyk6mb6",
+        "name": "مصطفى",
+        "parent": "node-60u1jqm",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -1444.8601543202121,
+        "y": 233.94007065716914
+    },
+    {
+        "id": "node-33zbo5r",
+        "name": "محمد",
+        "parent": "node-60u1jqm",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -1670.2535887325514,
+        "y": 257.911771886489
+    },
+    {
+        "id": "node-ihivfza",
+        "name": "اشرف",
+        "parent": "node-60u1jqm",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -1951.679944431081,
+        "y": 188.2779469209559
+    },
+    {
+        "id": "node-ryzblj9",
+        "name": "شمس الدين",
+        "parent": "node-60u1jqm",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -1961.0917091369633,
+        "y": 291.8073586856618
+    },
+    {
+        "id": "node-opbdx6q",
+        "name": "منى",
+        "parent": "node-60u1jqm",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -1665.7975914899043,
+        "y": 402.39559397977945
+    },
+    {
+        "id": "node-63qr213",
+        "name": "شريفة",
+        "parent": "node-60u1jqm",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -1181.0917091369631,
+        "y": 182.39559397977945
+    },
+    {
+        "id": "node-wjpoek7",
+        "name": "شادية",
+        "parent": "node-60u1jqm",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -1309.3270032546102,
+        "y": 365.92500574448536
+    },
+    {
+        "id": "node-xhyytum",
+        "name": "ايوب",
+        "parent": "node-ugrox17",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -1623.1913813422711,
+        "y": 765.1837158203126
+    },
+    {
+        "id": "node-psr2bxk",
+        "name": "وليد",
+        "parent": "node-ugrox17",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -2080.5991195229926,
+        "y": 848.9335004021141
+    },
+    {
+        "id": "node-s198ze0",
+        "name": "مضر",
+        "parent": "node-ugrox17",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -2174.716766581816,
+        "y": 634.8158533432905
+    },
+    {
+        "id": "node-0np4j45",
+        "name": "ادريس",
+        "parent": "node-ugrox17",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -2352.363825405346,
+        "y": 779.5217356962318
+    },
+    {
+        "id": "node-uips1n1",
+        "name": "اعتماد",
+        "parent": "node-ugrox17",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -1724.1285312876985,
+        "y": 921.8746768727024
+    },
+    {
+        "id": "node-0150mzk",
+        "name": "امتثال",
+        "parent": "node-ugrox17",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -2365.305001875934,
+        "y": 926.5805592256436
+    },
+    {
+        "id": "node-hwl2c6l",
+        "name": "اعتدال",
+        "parent": "node-ugrox17",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -2066.481472464169,
+        "y": 983.0511474609377
+    },
+    {
+        "id": "node-ijka6z7",
+        "name": "محمد",
+        "parent": "node-5jvapyn",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -922.5975002962002,
+        "y": 1342.683787626379
+    },
+    {
+        "id": "node-ufol7wv",
+        "name": "بدرالدين",
+        "parent": "node-5jvapyn",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -1252.9466034384336,
+        "y": 1344.0805592256436
+    },
+    {
+        "id": "node-s9qyl4w",
+        "name": "بدرية",
+        "parent": "node-5jvapyn",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -1075.2995446149043,
+        "y": 1457.0217356962319
+    },
+    {
+        "id": "node-f5fzscf",
+        "name": "محمد",
+        "parent": "node-2x76cu2",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -40.97257389741786,
+        "y": 1293.9900835822611
+    },
+    {
+        "id": "node-d31gbzf",
+        "name": "عبدالعزيز",
+        "parent": "node-2x76cu2",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -398.3805993024041,
+        "y": 1353.0338781020223
+    },
+    {
+        "id": "node-nfwe9jd",
+        "name": "جعفر",
+        "parent": "node-2x76cu2",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -410.14530518475704,
+        "y": 1225.9750545726104
+    },
+    {
+        "id": "node-ve7waw7",
+        "name": "زينب",
+        "parent": "node-2x76cu2",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 132.20763599171357,
+        "y": 1175.386819278493
+    },
+    {
+        "id": "node-e3ic2b0",
+        "name": "عائشة",
+        "parent": "node-2x76cu2",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 299.2664595211254,
+        "y": 1317.7397604549633
+    },
+    {
+        "id": "node-bs9fqk7",
+        "name": "فتحية",
+        "parent": "node-2x76cu2",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -19.55706989063936,
+        "y": 1462.4456428079047
+    },
+    {
+        "id": "node-mgdx68n",
+        "name": "نجاح",
+        "parent": "node-2x76cu2",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -348.9688345965218,
+        "y": 1548.3279957490813
+    },
+    {
+        "id": "node-d3o9kmf",
+        "name": "شادية",
+        "parent": "node-2x76cu2",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -763.0864816553453,
+        "y": 1562.4456428079045
+    },
+    {
+        "id": "node-s3wdq5f",
+        "name": "نادية",
+        "parent": "node-2x76cu2",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 9.854694815242993,
+        "y": 1614.2103486902574
+    },
+    {
+        "id": "node-cwo6rw9",
+        "name": "مصطفى",
+        "parent": "node-674szgx",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1189.7830323611993,
+        "y": 1511.804091509651
+    },
+    {
+        "id": "node-rve9rhe",
+        "name": "فاطمة فافلي",
+        "parent": "node-674szgx",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1101.547738243552,
+        "y": 1589.4511503331805
+    },
+    {
+        "id": "node-7gdif9b",
+        "name": "نفيسة",
+        "parent": "node-674szgx",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 856.8418558906108,
+        "y": 1609.4511503331803
+    },
+    {
+        "id": "node-slwbh3c",
+        "name": "منيرة",
+        "parent": "node-674szgx",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 576.8418558906108,
+        "y": 1589.4511503331805
+    },
+    {
+        "id": "node-9s9t9up",
+        "name": "محمد جليل",
+        "parent": "node-20f2p65",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 501.614814085119,
+        "y": 1937.7525060317098
+    },
+    {
+        "id": "node-ie02h5m",
+        "name": "عمر المبارك",
+        "parent": "node-xp0itzj",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1588.4397652569942,
+        "y": 1981.627520392923
+    },
+    {
+        "id": "node-49x9yr0",
+        "name": "سعد",
+        "parent": "node-xp0itzj",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1302.7779197692873,
+        "y": 2026.5535601447614
+    },
+    {
+        "id": "node-ebhxpoe",
+        "name": "صفية",
+        "parent": "node-xp0itzj",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1039.2485080045813,
+        "y": 1931.2594424977026
+    },
+    {
+        "id": "node-yer7u49",
+        "name": "سكينة",
+        "parent": "node-xp0itzj",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1823.9543903575227,
+        "y": 1821.8476777918202
+    },
+    {
+        "id": "node-ak21wse",
+        "name": "ثريا",
+        "parent": "node-xp0itzj",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1862.7779197692873,
+        "y": 1965.377089556526
+    },
+    {
+        "id": "node-ezvniu5",
+        "name": "اسيا",
+        "parent": "node-xp0itzj",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 1633.3661550634051,
+        "y": 2154.7888542624087
+    },
+    {
+        "id": "node-twbzp4v",
+        "name": "عوض عبدالحميد",
+        "parent": "node-5jdfxl5",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 939.7087220584647,
+        "y": 2369.921336454504
+    },
+    {
+        "id": "node-tqs5h7q",
+        "name": "زكية",
+        "parent": "node-5jdfxl5",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 586.9879094292137,
+        "y": 2351.3179644416364
+    },
+    {
+        "id": "node-3jlsy54",
+        "name": "فتحية",
+        "parent": "node-5jdfxl5",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 646.9879094292137,
+        "y": 2506.6120820886954
+    },
+    {
+        "id": "node-re37787",
+        "name": "عبدالرحيم",
+        "parent": "node-7n1l5q9",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -74.96642729815316,
+        "y": 1852.4024514590997
+    },
+    {
+        "id": "node-sli52g9",
+        "name": "عثمان",
+        "parent": "node-7n1l5q9",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -418.25666203218356,
+        "y": 1867.916941923254
+    },
+    {
+        "id": "node-o82po09",
+        "name": "الطيب",
+        "parent": "node-7n1l5q9",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -660.6096032086542,
+        "y": 1789.093412511489
+    },
+    {
+        "id": "node-rqt8bgy",
+        "name": "صديق",
+        "parent": "node-7n1l5q9",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -164.13901497335996,
+        "y": 1974.9757654526659
+    },
+    {
+        "id": "node-94f7aor",
+        "name": "هارون",
+        "parent": "node-7n1l5q9",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -759.4331326204189,
+        "y": 1985.5640007467832
+    },
+    {
+        "id": "node-g3zxsjo",
+        "name": "سندس",
+        "parent": "node-7n1l5q9",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -405.3154855615953,
+        "y": 2010.2698830997244
+    },
+    {
+        "id": "node-ec05q5w",
+        "name": "منى",
+        "parent": "node-7n1l5q9",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -623.6456354926615,
+        "y": 2122.48883415671
+    },
+    {
+        "id": "node-jvyqo04",
+        "name": "عبدالله السني",
+        "parent": "node-e2m7b2u",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -99.88518771003275,
+        "y": 2390.5274514590997
+    },
+    {
+        "id": "node-dzfgsbk",
+        "name": "ابراهيم السني",
+        "parent": "node-e2m7b2u",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -382.9385611590218,
+        "y": 2383.9179902918204
+    },
+    {
+        "id": "node-9mfapn5",
+        "name": "فاطمة قرشة ",
+        "parent": "node-muaprhg",
+        "level": 5,
+        "color": "#ec4899",
+        "x": 271.12100376802334,
+        "y": 2685.93365837546
+    },
+    {
+        "id": "node-ouo1ohb",
+        "name": "محمود",
+        "parent": "node-muaprhg",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -8.658488778507014,
+        "y": 2666.154031192556
+    },
+    {
+        "id": "node-okq1p1v",
+        "name": "عبدالعزيز",
+        "parent": "node-muaprhg",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -455.71731230791886,
+        "y": 2662.6246194278497
+    },
+    {
+        "id": "node-1i4pxvu",
+        "name": "فتحي",
+        "parent": "node-muaprhg",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -220.42319466085996,
+        "y": 2768.5069723690262
+    },
+    {
+        "id": "node-z3r1qfx",
+        "name": "محمد محجوب",
+        "parent": "node-hk7m9mn",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -882.3601812474869,
+        "y": 2678.639957203585
+    },
+    {
+        "id": "node-q6r7ws1",
+        "name": "بشير",
+        "parent": "node-hk7m9mn",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -1291.532741995419,
+        "y": 2691.8012910730704
+    },
+    {
+        "id": "node-ygdkmqa",
+        "name": "الفاتح",
+        "parent": "node-hk7m9mn",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -1022.1209772895365,
+        "y": 2798.860114602482
+    },
+    {
+        "id": "node-6w1swpn",
+        "name": "الصادق",
+        "parent": "node-hk7m9mn",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -1410.3562714071836,
+        "y": 2914.154232249541
+    },
+    {
+        "id": "node-b1skz4g",
+        "name": "عرفة",
+        "parent": "node-hk7m9mn",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -616.2386243483601,
+        "y": 2923.565996955423
+    },
+    {
+        "id": "node-ylq5mc6",
+        "name": "بثينة",
+        "parent": "node-hk7m9mn",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -958.5915655248307,
+        "y": 3010.624820484835
+    },
+    {
+        "id": "node-f6v3byj",
+        "name": "زكية",
+        "parent": "node-hk7m9mn",
+        "level": 5,
+        "color": "#ec4899",
+        "x": -1252.7092125836543,
+        "y": 3081.2130557789524
+    }
+]
